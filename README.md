@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *SeaFund*
 
 Submitted by: Dhruv Sharma
 
@@ -21,7 +21,9 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/lgVP4Nr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Video Walkthrough](https://i.imgur.com/lgVP4Nr.gif)
+
+Direct Link if not showing above:
+https://i.imgur.com/lgVP4Nr.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
