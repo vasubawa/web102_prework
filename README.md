@@ -21,6 +21,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/lgVP4Nr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![Video Walkthrough](https://i.imgur.com/lgVP4Nr.gif)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
